@@ -2,17 +2,7 @@
 
 A modern, responsive web interface for the Verto AI chatbot, developed for Lovely Professional University. This interface features a beautiful orange theme, dark/light mode toggle, and smooth animations.
 
-![Verto AI Interface](screenshot.png)
 
-## Features
-
-- 🎨 Modern Orange Theme Design
-- 🌓 Dark/Light Mode Toggle
-- 📱 Fully Responsive Layout
-- 🎭 Smooth Animations & Transitions
-- 🏫 LPU Branding Integration
-- 💬 Clean Chat Interface
-- 🔗 Developer Attribution
 
 ## Technologies Used
 
@@ -24,13 +14,13 @@ A modern, responsive web interface for the Verto AI chatbot, developed for Lovel
 
 ## Live Demo
 
-[Add your deployed link here]
+[Link](https://harshilsetty.github.io/Verto-Ai/)
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/verto-ai-interface.git
+git clone https://github.com/harshilsetty/verto-ai-interface.git
 ```
 
 2. Open `index.html` in your browser or set up a local server.
@@ -55,14 +45,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Harshil Somisetty**
 - LinkedIn: [Harshil Somisetty](https://www.linkedin.com/in/harshil-somisetty/)
-- GitHub: [Your GitHub Profile]
+- GitHub: [Harshil Somisetty](https://github.com/harshilsetty)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Lovely Professional University for the resources and support
 - Chatbase for the chatbot integration
-- Font Awesome for the icons 
